@@ -1,48 +1,38 @@
-# 👨‍💻 User.x1w
+# ░▒▓ USER.X1W ▓▒░
 
-Développeur full-stack spécialisé en développement web et backend.
-
----
-
-## ⚙️ Stack technique
-
-- Node.js
-- PHP
-- Python
-- JavaScript (Vanilla / frameworks)
-- HTML / CSS
-- Prisma
+> identity: masked  
+> role: developer  
+> status: active  
 
 ---
 
-## 🚀 Projets
+## // system
 
-### 🌐 Zeifra.com
-Plateforme web en cours de développement / production.  
-> Focus : performance, architecture scalable, expérience utilisateur.
+```txt
+nodejs | php | python | javascript | html | prisma
+// projects
+▣ Zeifra.com
 
-### 🌐 Selflx.cc
-Projet secondaire orienté web app et expérimentations full-stack.  
-> Focus : rapidité, tests de concepts, itérations.
+web system — in progress
+focus: architecture / performance / scalability
 
----
+▣ Selflx.cc
 
-## 🧠 À propos
+experimental environment
+focus: testing / iteration / rapid deployment
 
-Développement orienté :
-- architecture propre
-- performance backend
-- automatisation
-- interfaces minimalistes et efficaces
-
----
-
-## 📊 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=User.x1w&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-- GitHub : https://github.com/User.x1w
+// fingerprint
+backend logic
+api design
+automation systems
+web interfaces
+database modeling
+// environment
+> runtime: node
+> backend: php / python
+> frontend: html / js
+> orm: prisma
+// identity
+user: User.x1w
+trace: limited
+visibility: low
