@@ -61,14 +61,6 @@ database design
 
 ---
 
-## ░ GITHUB METRICS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=userx1w&show_icons=true&theme=default&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=userx1w&layout=compact&theme=default&hide_border=true)
-
----
-
 ## ░ ACTIVITY LOG
 
 
@@ -86,6 +78,8 @@ optimize : systems
 
 github : https://github.com/userx1w
 status : open for collaboration
+website : https://zeifra.com
+website : https://selflx.cc
 
 
 ---
