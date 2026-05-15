@@ -1,91 +1,48 @@
-<div align="center">
+# 👨‍💻 User.x1w
 
-# ▓▒░ SYSTEM BOOT ░▒▓
-
-
-[ OK ] identity loaded
-[ OK ] github profile detected
-[ OK ] developer profile active
-
-
-### userx1w // FULLSTACK ENGINEER
-
-</div>
+Développeur full-stack spécialisé en développement web et backend.
 
 ---
 
-## ░ IDENTITY
+## ⚙️ Stack technique
 
-
-user : userx1w
-role : fullstack developer
-stack : web / backend / systems
-status : active
-mode : build / learn / deploy
-
-
----
-
-## ░ STACK
-
-
-frontend → React • TypeScript • HTML • CSS
-backend → Node.js • PHP • Python
-database → Prisma • SQL
-tools → Git • API • CLI
-
+- Node.js
+- PHP
+- Python
+- JavaScript (Vanilla / frameworks)
+- HTML / CSS
+- Prisma
 
 ---
 
-## ░ FOCUS
+## 🚀 Projets
 
+### 🌐 Zeifra.com
+Plateforme web en cours de développement / production.  
+> Focus : performance, architecture scalable, expérience utilisateur.
 
-web applications
-REST / API systems
-backend architecture
-UI development
-database design
-
-
----
-
-## ░ TECH SIGNALS
-
-![JS](https://img.shields.io/badge/JS-READY-111?style=for-the-badge&logo=javascript)
-![TS](https://img.shields.io/badge/TS-READY-111?style=for-the-badge&logo=typescript)
-![REACT](https://img.shields.io/badge/REACT-READY-111?style=for-the-badge&logo=react)
-![NODE](https://img.shields.io/badge/NODE-READY-111?style=for-the-badge&logo=node.js)
-![PY](https://img.shields.io/badge/PY-READY-111?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-READY-111?style=for-the-badge&logo=php)
-![PRISMA](https://img.shields.io/badge/DB-READY-111?style=for-the-badge&logo=prisma)
+### 🌐 Selflx.cc
+Projet secondaire orienté web app et expérimentations full-stack.  
+> Focus : rapidité, tests de concepts, itérations.
 
 ---
 
-## ░ ACTIVITY LOG
+## 🧠 À propos
 
-
-build : applications
-design : interfaces
-develop : APIs
-deploy : services
-optimize : systems
-
+Développement orienté :
+- architecture propre
+- performance backend
+- automatisation
+- interfaces minimalistes et efficaces
 
 ---
 
-## ░ CONNECTION
+## 📊 GitHub
 
-
-github : https://github.com/userx1w
-status : open for collaboration
-website : https://zeifra.com
-website : https://selflx.cc
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=User.x1w&show_icons=true&theme=tokyonight)
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-### SYSTEM READY
-
-</div>
+- GitHub : https://github.com/User.x1w
