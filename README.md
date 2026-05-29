@@ -1,9 +1,4 @@
-# ░▒▓ USER.X1W ▓▒░
-
-> identity: masked  
-> role: developer  
-> status: active  
-
+#USER.X1W
 ---
 
 ## // system
