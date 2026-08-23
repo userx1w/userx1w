@@ -8,8 +8,7 @@ nodejs | php | python | javascript | html | prisma
 
 // projects
 
-▣ Zeifra.com
-▣ Selflx.cc
+▣ deads.rip
 
 // fingerprint
 
@@ -29,5 +28,3 @@ database modeling
 // identity
 
 user: User.x1w
-trace: limited
-visibility: low
